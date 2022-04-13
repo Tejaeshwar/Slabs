@@ -1,0 +1,28 @@
+body { 
+     background: #f1faee;
+     font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar .navbar-brand{
+    color:  #e63946;
+    font-weight: 500;
+    
+}
+
+#mainNavbar{
+    size: 1.5 rem;
+    /* font-weight: 100; */
+}
+
+#mainNavbar .nav-link:hover{
+    color: #e63946
+}
+
+/* .login-box{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    /* justify-content: center;
+    align-items: center;
+} */
